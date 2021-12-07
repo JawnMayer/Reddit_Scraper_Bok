@@ -4,6 +4,8 @@ Reddit scraper which scrapes headlines of reddit posts and does sentiment analys
 
 This is taken from the youtube video shared in zoom. https://www.youtube.com/watch?v=8VZhog5C3bU&t=1s
 
+There are two ways to do it as the video explains, including user data or not and I believe that including user data does not add any meaningful data but if you would like to look at the code and copy and paste it there is a file called User_data. 
+
 Take the Only Title file and copy and paste then put in your keys. Then run it.
 
 
