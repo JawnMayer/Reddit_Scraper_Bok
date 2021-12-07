@@ -6,6 +6,11 @@ This is taken from the youtube video shared in zoom. https://www.youtube.com/wat
 
 Take the Only Title file and copy and paste then put in your keys. Then run it.
 
+
+To create an app go to reddit.com/prefs/apps then create an app. Name it then select the script bubble.
+For redirect url put http://localhost:8080 and everything else can be blank.
+
+
 I also included the csv files with headlines that I got. You can use these in excel.
 
 This was done in JupyterLab which is done in the pycharm terminal by 
